@@ -1,7 +1,3 @@
-import { h } from 'preact';
+import './reset.css';
 
-export const App = () => (
-    <div>
-        This is App
-    </div>
-)
+export const App = () => <div>This is App</div>;
