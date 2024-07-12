@@ -1,5 +1,13 @@
-# boilerplate-client-server-ts #
+# boilerplate-client-server-ts
+boiler plate for typescript client/server projects
 
-My boiler plate for Typescript client and server
+## server-dependencies:
+* typescript: `^5.2.2`
+* express: `^4.18.1`
+* ws: `^8.8.1`
 
-The client uses preact instead of react.
+## client-dependancies:
+* typescript: `^5.2.2`
+* vite: `^5.3.1`
+* preact: `^10.22.0`
+* lz-string: `^1.5.0`
