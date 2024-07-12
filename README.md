@@ -11,3 +11,6 @@ boiler plate for typescript client/server projects
 * vite: `^5.3.1`
 * preact: `^10.22.0`
 * lz-string: `^1.5.0`
+
+client also uses a simple and minimal CSS reset by Andy Bell:
+https://piccalil.li/blog/a-more-modern-css-reset
